@@ -42,4 +42,5 @@ if __name__ == "__main__":
   archive_logs(log_dir)
 
 # URL del Project: 
-[README] (https://github.com/EliLJ/README)
+[README](https://github.com/EliLJ/README)
+[Project](https://github.com/EliLJ/README/issues/1) 
